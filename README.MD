@@ -1,4 +1,4 @@
-# 📝 AI workflows review
+# ✨ AI workflows review
 This documents my learning for AI workflows reviewing.
 
 ## 🔤 Simple, plain English
