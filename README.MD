@@ -1,14 +1,17 @@
 # ✨ AI workflows review
 This documents my learning for AI workflows reviewing.
 
-## 🔤 Simple, plain English
-Use plain, easy to understand English for workflows.
-Use structure for only when precision is needed.  
+### 🔤 Simple, plain English
+Use easy to understand English for workflow steps and use structure only when precision is needed.
 
 Your workflow steps can then be:
-1. Easily maintained (can understand instantly)✅
-2. Auditable (reviewing is super simple)✅
-3. Highly adaptable (system can easily scale to changes)✅
-4. Resilient (human readable steps are harder to break and get bugs)✅
+1. Easy to understand (maintainable) ✅
+2. Easy to check (auditable) ✅
+3. Easy to change (flexible) ✅
+4. Hard to break (resilient) ✅
 
-## 🤖 Clear instruction
+### 🤖 Clear instructions
+Say what you want, say what you don't want, and give examples.
+
+### 🧩 Small steps
+Break work into tiny bits, if something goes wrong, it's much easier to spot the problem to fix.
