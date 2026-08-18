@@ -2,7 +2,8 @@
 This documents my learning for AI workflows reviewing.
 
 ## 🔤 Simple, plain English
-Use plain, easy to understand English for workflows, and reserving structure for only when precision is needed.  
+Use plain, easy to understand English for workflows.
+Use structure for only when precision is needed.  
 
 Your workflow steps can then be:
 1. Easily maintained (can understand instantly)✅
