@@ -12,8 +12,11 @@ Your workflow steps can then be:
 4. Hard to break (resilient) ✅
   
   
-# 💬 Clear steps: say what you want, say what you don't want, and show an example so the AI understands.
-# 🧩 Tiny pieces: break work into small bits, so problems are easy to spot and fix.
-# 📋 Plan, run, check: decide the goal, test in small steps, and review everything before accepting it.
+# 💬 Clear steps
+Say what you want, say what you don't want, and show an example so the AI understands.
+# 🧩 Tiny pieces
+Break work into small bits, so problems are easy to spot and fix.
+# 📋 Plan, run, check
+Decide the goal, test in small steps, and review everything before accepting it.
   
   
