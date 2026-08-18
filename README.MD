@@ -15,7 +15,8 @@ Your workflow steps can then be:
 # 🤖 Clear instructions
 Say what you want, say what you don't want, and give examples.  
   
-  
 # 🧩 Small steps
 Break work into tiny bits, if something goes wrong, it's much easier to spot the problem to fix.  
 
+# 📋 Plan, run, review
+Decide what the code must do, test your prompts in tiny steps and check everything before accepting it.
