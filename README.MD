@@ -1,16 +1,14 @@
-# ✨ AI learning, approach and testing
+# ✨ AI learning
 Documenting my learning, approach and testing for AI.  
   
-# 🔤 Simple, plain English
+## 🔤 Simple, plain English
 Use easy to understand English for flow steps and use structure only when precision is needed.  
-
   
 Flow steps are then:
 1. Easy to understand (maintainable) ✅
 2. Easy to check (auditable) ✅
 3. Easy to change (flexible) ✅
 4. Hard to break (resilient) ✅
-
 
 Create flows with:  
 1. 📏 Clear steps  
