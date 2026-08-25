@@ -1,19 +1,18 @@
-# ✨ AI workflows review
-This documents my learning for AI workflows reviewing.  
+# ✨ AI learning, e
+This documents my learning, approach and testing for AI.  
   
 # 🔤 Simple, plain English
-Use easy to understand English for workflow steps and use structure only when precision is needed.  
+Use easy to understand English for flow steps and use structure only when precision is needed.  
 
   
-Workflow steps are then:
+Flow steps are then:
 1. Easy to understand (maintainable) ✅
 2. Easy to check (auditable) ✅
 3. Easy to change (flexible) ✅
 4. Hard to break (resilient) ✅
 
 
-
-Create workflows with:  
+Create flows with:  
 1. 📏 Clear steps  
 Say what you want, say what you don't want, and show an example so the AI understands.  
 
@@ -22,6 +21,5 @@ Break work into small bits, so problems are easy to spot and fix.
 
 3. 📋 Plan, run, check  
 Decide the goal, test in small steps, and review everything before accepting it.  
-
   
   
