@@ -1,45 +1,43 @@
 # ✨ Claude AI memory and reusability  
 
 
-CLAUDE.md Markdown is Claude AI's memory.  
+Claude AI memory is stored in CLAUDE.md Markdown file in the main project folder.  
 You can use it to store information without reasking.  
-It lives in the main folder of your project.  
   
-You can have separate guidance files, such as additional memory and reusable flows (skills).  
+More memory can be imported and you can have reusable flows called skills.  
   
 ### 🧠 Claude.md example
 ``` 
-# Test project
+# Test project.
 
-## Imports
-@.claude/domain-knowledge.md  
-@.claude/report-format.md  
-@.claude/data-sources.md  
+## Imported memory.
+@domain-knowledge.md  
+@report-format.md  
+@data-sources.md  
 
 ## Core behavior
-1. Ground answers in the guidance files above.
+1. Answers must follow instructions from imported memories.
 2. Run only what's asked.
-3. Use /run-all-tests for the full chain.
+3. Use /run-all-tests to do all testing.
 ```
 
-### @.claude/domain-knowledge.md guidance example
+### domain-knowledge.md additional memory example
 ```
 # Domain Knowledge
 
-1. What "analysis accuracy" means for this project (developer's
-  analysis output vs. actual evidence found)
-2. What "test coverage" means here (unit/integration/e2e breakdown)
-3. Known past issues (e.g. evidence count mismatches)
+1. "Analysis accuracy" is analysis output versus actual evidence found.
+2. "Test coverage" are all test types from the test strategy (structural, functional, etc).
+3. Known past issues are evidence and scenario count mismatches.
 ```
 
 ### .claude/skills/run-all-tests/SKILL.md reusable flow
 ```
 ---
-description: Run the full test in order
+description: Run all tests in order.
 ---
-# Run all tests
-1. Run get-analysis-accuracy
-2. Run get-test-coverage
-3. Run report-test-strategy-suggestions (using outputs from 1 and 2)
-Present combined, using .claude/report-format.md
+# Run all tests.
+1. Run get-analysis-accuracy skill.
+2. Run get-test-coverage skill.
+3. Run report-test-strategy-suggestions skill using outputs from 1 and 2.
+4. Create a combined report using report-format.md.
 ```
