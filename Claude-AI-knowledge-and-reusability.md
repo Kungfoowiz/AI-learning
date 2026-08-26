@@ -1,4 +1,4 @@
-# ✨ Claude AI memory and reusability  
+# ✨ Claude AI knowledge and reusability  
 
 
 Claude AI's knowledge is stored in CLAUDE.md Markdown file in the main project folder.  
