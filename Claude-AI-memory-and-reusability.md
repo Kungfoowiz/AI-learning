@@ -1,12 +1,12 @@
 # ✨ Claude AI memory and reusability  
 
 
-CLAUDE.md Markdown is Claude AI's memory.
-You can use it to store information without reasking.
-It lives in the main folder of your project.
-
-You can separate guidance files, such as additional memory and reusable flows (skills).
-
+CLAUDE.md Markdown is Claude AI's memory.  
+You can use it to store information without reasking.  
+It lives in the main folder of your project.  
+  
+You can separate guidance files, such as additional memory and reusable flows (skills).  
+  
 ### 🧠 Claude.md example
 ``` 
 # Test project
