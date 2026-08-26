@@ -5,7 +5,7 @@ CLAUDE.md Markdown is Claude AI's memory.
 You can use it to store information without reasking.  
 It lives in the main folder of your project.  
   
-You can separate guidance files, such as additional memory and reusable flows (skills).  
+You can have separate guidance files, such as additional memory and reusable flows (skills).  
   
 ### 🧠 Claude.md example
 ``` 
@@ -22,7 +22,7 @@ You can separate guidance files, such as additional memory and reusable flows (s
 3. Use /run-all-tests for the full chain.
 ```
 
-### @.claude/domain-knowledge.md
+### @.claude/domain-knowledge.md guidance example
 ```
 # Domain Knowledge
 
@@ -32,7 +32,7 @@ You can separate guidance files, such as additional memory and reusable flows (s
 3. Known past issues (e.g. evidence count mismatches)
 ```
 
-### .claude/skills/run-all-tests/SKILL.md
+### .claude/skills/run-all-tests/SKILL.md reusable flow
 ```
 ---
 description: Run the full test in order
