@@ -1,4 +1,4 @@
-### ⚡️ Learning faster  
+## ⚡️ Learning faster  
 
 **Start building immediately** and struggle with the problem.  
 
