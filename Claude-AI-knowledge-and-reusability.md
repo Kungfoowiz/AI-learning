@@ -2,8 +2,11 @@
 
 
 Claude AI's knowledge is stored in CLAUDE.md Markdown file in the main project folder.  
+
 It stores learning without you reasking Claude AI.  
+
 More learning can be added and you can also have reusable flows called skills.  
+
   
 ### 🧠 Claude.md example
 ``` 
