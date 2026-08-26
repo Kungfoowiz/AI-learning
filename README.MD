@@ -25,3 +25,5 @@ Decide the goal, test in small steps, and review everything before accepting it.
   
 ## 📑 Other guides
 [Learning faster](Learning-faster.md)
+[Claude AI memory and reusability](Claude-AI-memory-and-reusability.md)
+
