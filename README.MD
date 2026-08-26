@@ -1,7 +1,8 @@
 # ✨ AI learning
 Documenting my learning, approach and testing for AI.  
-  
-## 🔤 Simple, plain English
+
+
+### 🔤 Simple, plain English
 Use easy to understand English for flow steps.  
 Use structure only when precision is needed.   
   
