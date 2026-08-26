@@ -16,7 +16,7 @@ Create flows with:
 Say what you want, say what you don't want, and show an example so the AI understands.  
 
 2. 🧩 Tiny pieces  
-Break work into small bits, so problems are easy to spot and fix.  
+Break work into tiny bits, so problems are easy to spot and fix.  
 
 3. 📋 Plan, run, check  
 Decide the goal, test in small steps, and review everything before accepting it.  
