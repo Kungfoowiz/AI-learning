@@ -2,7 +2,7 @@
 Documenting my learning, approach and testing for AI.  
 
 
-### 🔤 Simple, plain English
+## 🔤 Simple, plain English
 Use easy to understand English for flow steps.  
 Use structure only when precision is needed.   
   
@@ -23,3 +23,5 @@ Break work into tiny bits, so problems are easy to spot and fix.
 Decide the goal, test in small steps, and review everything before accepting it.  
   
   
+## 📑 Other guides
+[Learning faster](Learning-faster.md)
