@@ -1,5 +1,5 @@
 # ✨ AI learning
-Documenting my learning, approach and testing for AI.  
+My learning, approach and testing for AI.  
 
 ## 🔤 Simple, plain English
 Use easy to understand English for flow steps.  
