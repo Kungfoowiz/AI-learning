@@ -8,9 +8,9 @@ I want maintainable flows that are easy to understand, highly adaptable to chang
 Use easy to understand English for flows and structure only when precision needed.   
 
 ## Think⚡Steps🎤 Check🧪  
-Think it through — deeply think, explain to a 10 year old  
-Tiny clear steps — say what you want, what you don't want, give examples   
-Check everything — test everything and from other angles   
+Think it through — deeply think, explain to a 10 year old.  
+Tiny clear steps — numbered list, saying what you want, give examples, and say what you don't want.   
+Check everything — test everything and from other angles.   
 
 
 #### 📑 Other guides
