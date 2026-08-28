@@ -1,7 +1,7 @@
 # ✨ AI learning
 This documents my learning, approach and testing for AI.  
 
-I want my flows easy to understand (maintainable), flexible (adaptable), auditable (bug free), and hard to break (resilient). ✅  
+I want my flows easy to understand (**maintainable**), **flexible** (adaptable), **auditable** (bug free), and hard to break (**resilient**). ✅  
 
 
 ## 🔤 Simple, plain English
