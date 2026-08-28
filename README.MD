@@ -1,22 +1,16 @@
 # ✨ AI learning
 My learning, approach and testing for AI.  
+I want my flows easy to understand (maintainable), flexible (adaptable), auditable (bug free), and hard to break (resilient). ✅
 
 ## 🔤 Simple, plain English
-Use easy to understand English for flow steps.  
-Use structure only when precision is needed.   
+Use easy to understand English for flows and structure only when precision needed.   
 
-### Think, Steps, Check (easy to remember).
-Think it through — deep thinking, kid‑simple 🎛️  
-Small clear steps — tiny‑pieces engineering 🎵  
-Check everything — reliability 🎧  
-  
-### Flow steps will then be:
-1. Easy to understand (maintainable) ✅
-2. Easy to check (auditable) ✅
-3. Easy to change (flexible) ✅
-4. Hard to break (resilient) ✅
-  
-  
+### Think, Steps, Check
+Think it through — deeply think, explain to a 10 year old ⚡  
+Tiny clear steps — say what you want, what you don't want, give examples 🎤  
+Check everything — test everything and from other angles 🧪  
+
+
 ## 📑 Other guides
 [Learning faster](Learning-faster.md)  
 [Claude AI memory and reusability](Claude-AI-knowledge-and-reusability.md)
