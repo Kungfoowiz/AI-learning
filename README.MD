@@ -6,8 +6,8 @@ Use easy to understand English for flow steps.
 Use structure only when precision is needed.   
 
 ### Think, Steps, Check (easy to remember).
-Think it through — deep thinking, kid‑simple 🎛️
-Small clear steps — tiny‑pieces engineering 🎵
+Think it through — deep thinking, kid‑simple 🎛️  
+Small clear steps — tiny‑pieces engineering 🎵  
 Check everything — reliability 🎧  
   
 ### Flow steps will then be:
