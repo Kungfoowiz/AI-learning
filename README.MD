@@ -1,5 +1,6 @@
 # ✨ AI learning
 This documents my learning, approach and testing for AI.  
+
 I want maintainable flows that are easy to understand, highly adaptable to change, very easy to check and hard to break. ✅  
 
 
