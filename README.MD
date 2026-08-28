@@ -1,5 +1,5 @@
 # ✨ AI learning
-My learning, approach and testing for AI.  
+This documents my learning, approach and testing for AI.  
 
 I want my flows easy to understand (maintainable), flexible (adaptable), auditable (bug free), and hard to break (resilient). ✅  
 
