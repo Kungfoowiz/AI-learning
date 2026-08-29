@@ -1,16 +1,20 @@
 # ✨ AI learning
 This documents my learning, approach and testing for AI.  
 
-I want maintainable flows that are easy to understand, highly adaptable to change, very easy to check and hard to break. ✅  
+I want flows that are RAAM:
+1.🔧 simple (**M**aintainable)
+2.➿ flexible to changes (**A**daptable)
+3.✅ easy to check (**A**uditable)
+4.🪨 hard to break (**E**esilient)
 
+Therefore:
+1.🔤 I use simple, plain English for flows.
+2.📐 When precision is needed, create structure.
 
-## 🔤 Simple, plain English
-Use easy to understand English for flows and structure only when precision needed.   
-
-## Think⚡Steps🎤 Check🧪  
-Think it through — deeply think, explain to a 10 year old.  
-Tiny clear steps — numbered list, saying what you want, give examples, and say what you don't want.   
-Check everything — test everything and from other angles.   
+Process:
+1.⚡ **Think** it thru — deeply think, explain to a 10 year old.  
+2.🔢 **Tiny** clear steps — use hierarchical numbered lists, saying what you want, give examples, and say what you don't want.   
+3.✅ **Check** everything — test everything and from many angles.   
 
 
 #### 📑 Other guides
