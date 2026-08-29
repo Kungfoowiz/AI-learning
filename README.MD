@@ -1,39 +1,44 @@
 # ✨ AI learning
-This documents my learning, approach and testing for AI.  
+This documents my learning, approach and testing for AI. 
 
-I want my flows to be **RAAM**:  
+## Clearly specify "who or what did what"  
+When you write unambiguously, whether you are writing for a human or an AI,  
+identifying the exact subject (who or what) and   
+the exact action (did what) eliminates almost all confusion.
+
+AI flows should be **RAAM**:  
 🪨 **R**esilient and hard to break   
 ➿ **A**daptable and flexible to changes  
 ✅ **A**uditable and easy to check  
-🔧 **M**aintainable and simple  
+🔧 **M**aintainable and simple to understand  
 
-## Therefore:
-1.🔤 I use simple, plain English for flows.
-2.📐 When precision is needed, create structure.
+AI flows must: 
+🔤 Be written in simple, plain English  
+📐 Have structure when precision is needed
 
-## Process:
-1.⚡ **Think** it thru — deeply think, explain to a 10 year old.  
-2.🔢 **Tiny** clear steps — use hierarchical numbered lists, saying what you want, give examples, and say what you don't want.   
-3.✅ **Check** everything — test everything and from many angles.   
+One process:
+1.🧠 **Think** about exactly what you want — question deeply while walking, ask yourself what do you want, how will it actually work, explain it as a 10 year old.  
+2.🔢 **List** exactly what or who, should do what — use hierarchical numbered lists, clearly specify what you want, give actual examples, and clearly specify what you do not want.   
+3.✅ **Break** everything like a baby — smash the whole house, push every boundary, chaos engineering.    
 
-## Example Claude AI Skill:  
+## Simplified Claude AI Skill example  
 ```
 ## Instructions
 
-1. Get the ship ready
-   1.1. Make sure the ship will not fall apart
+1. Get the ship ready.
+   1.1. Make sure the ship will not fall apart.
 
-2. Find the secret island
-   2.1. Look at the old pirate map  
-   2.2. Ask the crew if they have seen shores like it  
-   2.3. Draw the path you will sail on
+2. Find the secret island.
+   2.1. Look at the old pirate map.  
+   2.2. Ask the crew if they have seen shores like it.  
+   2.3. Draw the path you will sail on.
 
-3. Grab the treasure
-   3.1. Dig right on the big X  
-        3.1.1. Tap the ground to see if something is under it  
-        3.1.2. Scoop the sand away nice and slow  
-        3.1.3. Pull the treasure chest out  
-   3.2. Count the gold so none goes missing
+3. Grab the treasure.
+   3.1. Dig right on the big X.  
+        3.1.1. Tap the ground to see if something is under it.  
+        3.1.2. Scoop the sand away nice and slow.  
+        3.1.3. Pull the treasure chest out.  
+   3.2. Count the gold so none goes missing.
 ```
 
 
