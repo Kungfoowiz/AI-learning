@@ -2,10 +2,10 @@
 This documents my learning, approach and testing for AI.  
 
 ## I want my flows to be **RAAM**:  
-1.🪨 **R**esilient and hard to break   
-2.➿ **A**daptable and flexible to changes  
-3.✅ **A**uditable and easy to check  
-4.🔧 **M**aintainable and simple  
+🪨 **R**esilient and hard to break   
+➿ **A**daptable and flexible to changes  
+✅ **A**uditable and easy to check  
+🔧 **M**aintainable and simple  
 
 ## Therefore:
 1.🔤 I use simple, plain English for flows.
