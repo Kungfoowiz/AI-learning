@@ -1,11 +1,11 @@
 # ✨ AI learning
 This documents my learning, approach and testing for AI.  
 
-I want flows that are RAAM:
-1.🔧 simple (**M**aintainable)
-2.➿ flexible to changes (**A**daptable)
-3.✅ easy to check (**A**uditable)
-4.🪨 hard to break (**E**esilient)
+I want flows that are **RAAM**:  
+1.🔧 simple (**M**aintainable)  
+2.➿ flexible to changes (**A**daptable)  
+3.✅ easy to check (**A**uditable)  
+4.🪨 hard to break (**E**esilient)  
 
 Therefore:
 1.🔤 I use simple, plain English for flows.
