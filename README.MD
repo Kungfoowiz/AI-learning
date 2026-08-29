@@ -1,7 +1,7 @@
 # ✨ AI learning
 This documents my learning, approach and testing for AI.  
 
-## I want my flows to be **RAAM**:  
+I want my flows to be **RAAM**:  
 🪨 **R**esilient and hard to break   
 ➿ **A**daptable and flexible to changes  
 ✅ **A**uditable and easy to check  
