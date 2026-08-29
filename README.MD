@@ -16,7 +16,7 @@ AI flows must:
 🔤 Be written in simple, plain English  
 📐 Have structure when precision is needed
 
-One process:
+One process:  
 1.🧠 **Think** about exactly what you want — question deeply while walking, ask yourself what do you want, how will it actually work, explain it as a 10 year old.  
 2.🔢 **List** exactly what or who, should do what — use hierarchical numbered lists, clearly specify what you want, give actual examples, and clearly specify what you do not want.   
 3.✅ **Break** everything like a baby — smash the whole house, push every boundary, chaos engineering.    
