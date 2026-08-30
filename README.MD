@@ -32,14 +32,14 @@ Bacon, Lettuce, Tomato (BLT)
 ## ⛈️ Other thoughts ....  
 
 AI flows must:  
-🔤 Be written in simple, plain English  
-📐 Have structure when precision is needed  
+> 🔤 Be written in simple, plain English  
+> 📐 Have structure when precision is needed  
 
 AI flows should be **RAAM**:  
-🪨 **R**esilient and hard to break   
-➿ **A**daptable and flexible to changes  
-✅ **A**uditable and easy to check  
-🔧 **M**aintainable and simple to understand  
+> 🪨 **R**esilient and hard to break   
+> ➿ **A**daptable and flexible to changes  
+> ✅ **A**uditable and easy to check  
+> 🔧 **M**aintainable and simple to understand  
 
 
 ## 📑 Other guides
