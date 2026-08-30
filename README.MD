@@ -1,16 +1,8 @@
-# ✨ AI learning
+#✨AI learning
 This documents my learning, approach and testing for AI. 
 
-## Clearly specify "who or what did what"  
-When you write unambiguously, whether you are writing for a human or an AI,  
-identifying the exact subject (who or what) and   
-the exact action (did what) eliminates almost all confusion.
-
-AI flows should be **RAAM**:  
-🪨 **R**esilient and hard to break   
-➿ **A**daptable and flexible to changes  
-✅ **A**uditable and easy to check  
-🔧 **M**aintainable and simple to understand  
+##❓Clearly specify "who or what did what"  
+When you write unambiguously, identify the exact subject (who or what) and the exact action (did what) to eliminate almost all confusion.
 
 AI flows must: 
 🔤 Be written in simple, plain English  
@@ -40,6 +32,12 @@ One process:
         3.1.3. Pull the treasure chest out.  
    3.2. Count the gold so none goes missing.
 ```
+
+### AI flows should be **RAAM**:  
+🪨 **R**esilient and hard to break   
+➿ **A**daptable and flexible to changes  
+✅ **A**uditable and easy to check  
+🔧 **M**aintainable and simple to understand  
 
 
 #### 📑 Other guides
