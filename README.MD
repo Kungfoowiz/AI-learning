@@ -12,7 +12,7 @@ When I write unambiguously, I identify the exact subject (who or what) and the e
 3.✅ **B-reak everything like a baby** — smash the whole house, push every boundary, chaos engineering.    
   
 
-## Simplified exmaple showing a hierarchical numbered list  
+## Simplified example showing a hierarchical numbered list  
 ```
 ## Instructions
 
