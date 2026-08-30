@@ -1,6 +1,6 @@
 # 1️⃣ Deterministic communication
 
-This document shows how to move from implicit, ambiguous, and language to explicit, unambiguous, and deterministic logical language.  
+This document shows how to move from implicit, ambiguous language to explicit, unambiguous, and deterministic logical language.  
 
 Unvalidated, loose constraints and vaguely referenced information can be fixed by unambiguous communication.  
 
