@@ -1,4 +1,4 @@
-# Deterministic writing
+# 1️⃣ Deterministic writing
 
 This reference document serves as the absolute standard for transforming implicit, ambiguous human communication into clear, deterministic logic.  
 Use these matrices to refine documentation, code review comments, and engineering prompts for Claude Code.  
