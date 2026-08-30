@@ -30,7 +30,7 @@ Example Markdown:
 
 Example Markdown:  
 ```
-# Errors handling
+# Error handling
 1. If any fields or files are missing or incorrect, then I must ask the user what to do.
 2. If what I need to do is ambiguous, then I must ask the user questions to clarify what I must do.
 3. I must document all bugs, gaps, errors and anamolies and I must inform the user immediately.  
