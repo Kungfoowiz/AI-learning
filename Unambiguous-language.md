@@ -3,8 +3,6 @@
 This page shows how to identify ambiguous language versus explicit language.  
 Clear communication makes information verifiable, referenceable, and rule‑driven.  
 
----
-
 # 👁️‍🗨️ Unambiguous human English  
 
 | Step name | Ambiguous writing | Unambiguous writing | Why it is better? |
@@ -33,4 +31,3 @@ Clear communication makes information verifiable, referenceable, and rule‑driv
 | Metric Constraint Enforcement | Make this code run faster and keep the explanation short. | Reduce execution time below 200ms and limit the explanation to 3 bullet points. | Swaps qualitative tokens for static thresholds. Relative descriptors break model scoring heuristics. |
 | Validation Architecture | Check everything — test everything and from many angles. | Initialize the test suite with a default fail-closed state. Enforce boundary-value testing across all component inputs, rejecting unverified executions. | Neutralizes sycophancy patterns by establishing a pessimistic baseline. Enforcing strict boundary states blocks unexpected runtime behavior. Treating ambiguous execution tokens as hard failures ensures pipeline integrity. |
 
----  
