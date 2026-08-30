@@ -9,7 +9,7 @@ Bacon, Lettuce, Tomato (BLT)
 2.🔢 **L-ist what or who, should do what** — use hierarchical numbered lists, clearly specify what you want, give actual examples, and clearly specify what you do not want.   
 3.✅ **B-reak everything like a baby** — smash the whole house, push every boundary, chaos engineering.    
 
-## Simplified Claude AI Skill example  
+## Simplified hierarchical numbered list example  
 ```
 ## Instructions
 
