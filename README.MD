@@ -101,8 +101,8 @@ AI flows should be **RAAM**:
 
 
 ## 📑 Other guides
+[Unambiguous language](Unambiguous-language.md)  
 [Claude AI memory and reusability](Claude-AI-knowledge-and-reusability.md)  
-[Unambiguous language](Unambiguous-language.md)   
 [Learning faster](Learning-faster.md)  
 
 
