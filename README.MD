@@ -1,7 +1,7 @@
 # ✨ AI learning
 This documents my learning, approach and testing for AI. 
 
-## ❓ Clearly specify "who or what did what"  
+## ❓ Clearly specify "what does what"  
 I want to communicate explicitly and unambiguously, so I clearly specify **who or what did what**. 
 
 ## Bacon, Lettuce, Tomato (BLT)  
