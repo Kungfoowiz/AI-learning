@@ -34,6 +34,57 @@ Example Markdown:
 3. I must document all bugs, gaps, errors and anamolies and I must inform the user immediately.  
 ```  
 
+##  Full example Markdown
+```
+---
+name: treasure-hunter
+description: Find and retrieve treasure when the user says "set sail" or asks to hunt for treasure.
+---
+# 🧠 Overall specification
+## What
+1. Find the secret island and bring back the treasure chest.
+
+## Why
+1. The captain needs the gold to pay the crew and keep the ship sailing.
+
+## Success criteria
+1. Treasure chest is out of the ground.
+2. Gold is counted and nothing is missing.
+
+## Rules
+1. Never sail without checking the ship first.
+2. Never dig without the map.
+3. Never split the gold before it is counted.
+
+# 🔢 Execution
+## Steps
+1. Get the ship ready.
+   1.1. Make sure the ship will not fall apart.
+2. Find the secret island.
+   2.1. Look at the old pirate map.
+   2.2. Ask the crew if they have seen shores like it.
+   2.3. Draw the path you will sail on.
+3. Grab the treasure.
+   3.1. Dig right on the big X.
+        3.1.1. Tap the ground to see if something is under it.
+        3.1.2. Scoop the sand away nice and slow.
+        3.1.3. Pull the treasure chest out.
+   3.2. Count the gold so none goes missing.
+
+## Examples
+1. **Task:** Find the island marked on the old map.
+2. **Result:** Island found, path drawn, crew agrees on the route.
+
+## Output format
+1. Short report: island found, chest pulled, gold counted.
+
+# ⚡ Validation
+## Error handling
+1. Map is missing → ask the captain where it is.
+2. Ship is damaged → stop and fix it before sailing.
+3. X marks two spots → ask the crew which one to dig.
+4. Chest is empty → tell the captain immediately.  
+``` 
 
 ## ⛈️ Other thoughts ..  
 
