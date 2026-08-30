@@ -2,7 +2,7 @@
 This documents my learning, approach and testing for AI. 
 
 ## ❓ Clearly specify "what did what"  
-I want to communicate explicitly and unambiguously, so I clearly specify **who or what did what**. 
+I want to communicate explicitly and unambiguously, so I clearly specify **who or what did what**.  
 [This page shows how to identify ambiguous language versus explicit language.](Unambiguous-language.md)   
 
 ## Bacon, Lettuce, Tomato (BLT)  
