@@ -5,7 +5,7 @@ This documents my learning, approach and testing for AI.
 I want to communicate explicitly and unambiguously, so I clearly specify **who or what did what**.  
 
 
-## Bacon, Lettuce, Tomato (BLT)  
+## 🥪 Bacon, Lettuce, Tomato (BLT)  
 1.🧠 T-hink what exactly you want to do. I question deeply when I go for a walk outside and I ask myself what, why, how.  
 I also imagine explaining what I want to a 10 year old kid, so I can check my understanding from a different perspective.  
 
@@ -36,7 +36,7 @@ Example Markdown:
 3. I must document all bugs, gaps, errors and anamolies and I must inform the user immediately.  
 ```  
 
-##  Full example Markdown
+##  📝 Full example Markdown
 ```
 ---
 name: treasure-hunter
