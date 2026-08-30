@@ -42,10 +42,10 @@ description: Find and retrieve treasure when the user says "set sail" or asks to
 ---
 # 🧠 Overall specification
 ## What
-1. Find the secret island and bring back the treasure chest.
+Find the secret island and bring back the treasure chest.
 
 ## Why
-1. The captain needs the gold to pay the crew and keep the ship sailing.
+The captain needs the gold to pay the crew and keep the ship sailing.
 
 ## Success criteria
 1. Treasure chest is out of the ground.
@@ -72,11 +72,11 @@ description: Find and retrieve treasure when the user says "set sail" or asks to
    3.2. Count the gold so none goes missing.
 
 ## Examples
-1. **Task:** Find the island marked on the old map.
-2. **Result:** Island found, path drawn, crew agrees on the route.
+**Task:** Find the island marked on the old map.
+**Result:** Island found, path drawn, crew agrees on the route.
 
 ## Output format
-1. Short report: island found, chest pulled, gold counted.
+Short report: island found, chest pulled, gold counted.
 
 # ⚡ Validation
 ## Error handling
