@@ -43,8 +43,8 @@ AI flows should be **RAAM**:
 
 
 ## 📑 Other guides
-[Learning faster](Learning-faster.md)  
 [Claude AI memory and reusability](Claude-AI-knowledge-and-reusability.md)  
 [Deterministic writing](Deterministic-writing.md)   
+[Learning faster](Learning-faster.md)  
 
 
