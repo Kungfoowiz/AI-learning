@@ -42,7 +42,7 @@ AI flows should be **RAAM**:
 🔧 **M**aintainable and simple to understand  
 
 
-#### 📑 Other guides
+## 📑 Other guides
 [Learning faster](Learning-faster.md)  
 [Claude AI memory and reusability](Claude-AI-knowledge-and-reusability.md)
 
