@@ -2,7 +2,7 @@
 This documents my learning, approach and testing for AI. 
 
 ## ❓ Clearly specify "who or what did what"  
-When I write unambiguously, I identify the exact subject (who or what) and the exact action (did what) to eliminate almost all confusion.  
+I want to communicate explicitly and unambiguously, so I clearly specify **who or what did what**. 
 
 ## Bacon, Lettuce, Tomato (BLT)  
 1.🧠 T-hink what exactly you want to do. I question deeply when I go for a walk outside and I ask myself what, why, how. I also imagine explaining what I want to a 10 year old kid so I can check my understanding from a different perspective.  
