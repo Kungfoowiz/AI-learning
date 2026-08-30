@@ -1,9 +1,11 @@
 # 1️⃣ Deterministic communication
 
-This document shows how to move from implicit, ambiguous, and unclear language to explicit, unambiguous, clear, and deterministic logical language.  
+This document shows how to move from implicit, ambiguous, and language to explicit, unambiguous, and deterministic logical language.  
+
 Unvalidated, loose constraints and vaguely referenced information can be fixed by unambiguous communication.  
 
 If you want to communicate unambiguously, you must explicitly state **who or what did what**.  
+
 Clearly naming the exact subject and action eliminates guesswork and forces AI to deliver perfectly deterministic results.
 
 ---
