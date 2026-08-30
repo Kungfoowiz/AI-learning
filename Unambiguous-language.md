@@ -15,8 +15,6 @@ Clear communication makes information verifiable, referenceable, and rule‑driv
 | Quantify Goals & Limits | Make this code run faster and keep the explanation short. | Reduce execution time below 200ms and limit the explanation to 3 bullet points. | Replaces opinions with metrics. Relative words mean different things to AI. |
 | Verify System Outputs | Check everything — test everything and from many angles. | Assume the code has failed by default. Test each function against explicit edge cases, missing parameters, and invalid data types to prove a pass. | Overturns the model's natural bias to be overly agreeable. Enforcing strict boundary states blocks unexpected runtime behavior. Demanding active proof of correctness catches hidden bugs. |
 
----
-
 # 🤖 The high precision programmatic  
 
 | Objective / phase | Indeterminate input (implicit) | Deterministic input (explicit) | Structural optimisation and impact |
