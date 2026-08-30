@@ -42,8 +42,7 @@ When flagging unvalidated, loose constraints or vague references in files or cod
 > To write unambiguously, you must explicitly state who or what did what. Clearly naming the exact subject and action eliminates guesswork and forces AI to deliver perfectly deterministic results.
   
 
-## Yes, the number 1 can symbolise deterministic writing by representing a single, unalterable path or a rigid binary foundation where only one outcome is possible.  
-##### Why the Number 1 Works as a Symbol?  
+## 1️⃣ The number 1 can symbolise deterministic writing by representing a single, unalterable path or a rigid binary foundation where only one outcome is possible.  
 > Singularity: The number 1 stands for a single truth or a singular, non-negotiable path. Determinism relies on the idea that history or a text has only one way to unfold.  
 > Binary Logic: In digital systems and formal logic, a sequence built on 1s and 0s represents a closed system. Every action and output is strictly fixed by a rule, leaving no room for random chance.  
 > Order Versus Chaos: Writers use the number 1 to show absolute control, fate, or a strict mechanical order that opposes chaotic or free-willed writing.    
