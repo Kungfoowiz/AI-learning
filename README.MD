@@ -1,9 +1,8 @@
-#✨AI learning
+# ✨ AI learning
 This documents my learning, approach and testing for AI. 
 
-##❓Clearly specify "who or what did what"  
-When you write unambiguously, identify the exact subject (who or what) and the exact action (did what) to eliminate almost all confusion.
-
+## ❓ Clearly specify "who or what did what"  
+When you write unambiguously, identify the exact subject (who or what) and the exact action (did what) to eliminate almost all confusion.  
 AI flows must: 
 🔤 Be written in simple, plain English  
 📐 Have structure when precision is needed
