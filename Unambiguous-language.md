@@ -18,7 +18,7 @@ Clear communication makes information verifiable, referenceable, and rule‑driv
 
 # 🤖 The high precision programmatic  
 
-| Objective / phase | Indeterminate input (implicit) | Deterministic input (explicit) | Structural optimisation and impact |
+| Construct | Indeterminate input (implicit) | Deterministic input (explicit) | Structural optimisation and impact |
 | :--- | :--- | :--- | :--- |
 | Contextual scoping | Cut the wood with the saw and clean it. | Cut the wood with the saw, then clean the saw. | Eliminates pronoun resolution failures. Noun repetition prevents execution state drift. |
 | Temporal parameterization | Call me when you are free. | Call me on Wednesday at 2:00 PM. | Mitigates timeline heuristics guessing. Unbounded parameters degrade scheduling reliability. |
