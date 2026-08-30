@@ -6,7 +6,9 @@ When I write unambiguously, I identify the exact subject (who or what) and the e
 
 Bacon, Lettuce, Tomato (BLT)  
 > 1.🧠 **T-hink about exactly what you want** — question deeply while walking, ask yourself what do you want, how exactly it will work, explain why to a 10 year old.  
+
 > 2.🔢 **L-ist what or who, should do what** — use hierarchical numbered lists, clearly specify what you want, give actual examples, and clearly specify what you do not want.   
+
 > 3.✅ **B-reak everything like a baby** — smash the whole house, push every boundary, chaos engineering.    
 
 ## Simplified hierarchical numbered list example  
