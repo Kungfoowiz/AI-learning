@@ -5,13 +5,14 @@ This documents my learning, approach and testing for AI.
 When I write unambiguously, I identify the exact subject (who or what) and the exact action (did what) to eliminate almost all confusion.  
 
 Bacon, Lettuce, Tomato (BLT)  
-> 1.🧠 **T-hink about exactly what you want** — question deeply while walking, ask yourself what do you want, how exactly it will work, explain why to a 10 year old.  
+1.🧠 **T-hink about exactly what you want** — question deeply while walking, ask yourself what do you want, how exactly it will work, explain why to a 10 year old.  
 
-> 2.🔢 **L-ist what or who, should do what** — use hierarchical numbered lists, clearly specify what you want, give actual examples, and clearly specify what you do not want.   
+2.🔢 **L-ist what or who, should do what** — use hierarchical numbered lists, clearly specify what you want, give actual examples, and clearly specify what you do not want.   
 
-> 3.✅ **B-reak everything like a baby** — smash the whole house, push every boundary, chaos engineering.    
+3.✅ **B-reak everything like a baby** — smash the whole house, push every boundary, chaos engineering.    
+  
 
-## Simplified hierarchical numbered list example  
+## Simplified exmaple showing a hierarchical numbered list  
 ```
 ## Instructions
 
@@ -34,14 +35,14 @@ Bacon, Lettuce, Tomato (BLT)
 ## ⛈️ Other thoughts ....  
 
 AI flows must:  
-> 🔤 Be written in simple, plain English  
-> 📐 Have structure when precision is needed  
+🔤 Be written in simple, plain English  
+📐 Have structure when precision is needed  
 
 AI flows should be **RAAM**:  
-> 🪨 **R**esilient and hard to break   
-> ➿ **A**daptable and flexible to changes  
-> ✅ **A**uditable and easy to check  
-> 🔧 **M**aintainable and simple to understand  
+🪨 **R**esilient and hard to break   
+➿ **A**daptable and flexible to changes  
+✅ **A**uditable and easy to check  
+🔧 **M**aintainable and simple to understand  
 
 
 ## 📑 Other guides
