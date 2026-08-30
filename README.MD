@@ -42,6 +42,7 @@ Example Markdown:
 name: treasure-hunter
 description: Find and retrieve treasure when the user says "set sail" or asks to hunt for treasure.
 ---
+
 # 🧠 Overall specification
 ## What
 Find the secret island and bring back the treasure chest.
@@ -57,6 +58,7 @@ The captain needs the gold to pay the crew and keep the ship sailing.
 1. Never sail without checking the ship first.
 2. Never dig without the map.
 3. Never split the gold before it is counted.
+
 
 # 🔢 Execution
 ## Steps
@@ -79,6 +81,7 @@ The captain needs the gold to pay the crew and keep the ship sailing.
 
 ## Output format
 Short report: island found, chest pulled, gold counted.
+
 
 # ⚡ Validation
 ## Error handling
