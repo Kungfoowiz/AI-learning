@@ -1,18 +1,11 @@
-# 1️⃣ Deterministic communication
+# 1️⃣ Unambiguous language
 
-This document shows how to move from implicit, ambiguous language to explicit, unambiguous, and deterministic logical language.  
-
-Unvalidated, loose constraints and vaguely referenced information can be fixed by unambiguous communication.  
-
-If you want to communicate unambiguously, you must explicitly state **who or what did what**.  
-
-Clearly naming the exact subject and action eliminates guesswork and forces AI to deliver perfectly deterministic results.
+The following page shows how I can communicate implicit, ambiguous language to explicit, unambiguous language.  
+When I communicate clearly and unambiguously, information can be validated and references, and rules are explicit.    
 
 ---
 
-Use these tables to refine your communication.  
-
-# 👁️‍🗨️ Unambiguous human English approach
+# 👁️‍🗨️ Unambiguous human English  
 
 | Step name | Ambiguous writing | Unambiguous writing | Why it is better? |
 | :--- | :--- | :--- | :--- |
@@ -27,7 +20,7 @@ Use these tables to refine your communication.
 
 ---
 
-# 🤖 High precision programmatic approach
+# 🤖 The high precision programmatic  
 
 | Objective / phase | Indeterminate input (implicit) | Deterministic input (explicit) | Structural optimisation and impact |
 | :--- | :--- | :--- | :--- |
