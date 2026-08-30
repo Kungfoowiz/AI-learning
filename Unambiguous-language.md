@@ -5,7 +5,7 @@ Clear communication makes information verifiable, referenceable, and rule‑driv
 
 # 👁️‍🗨️ Unambiguous human English  
 
-| Step name | Ambiguous writing | Unambiguous writing | Why it is better? |
+| Construct | Ambiguous writing | Unambiguous writing | Why it is better? |
 | :--- | :--- | :--- | :--- |
 | Refine Your Structure | Cut the wood with the saw and clean it. | Cut the wood with the saw, then clean the saw. | Clarifies what "it" refers to. Repeating the noun removes ambiguity. |
 | Choose Precise Words (Time) | Call me when you are free. | Call me on Wednesday at 2:00 PM. | Removes timeline guesswork. Vague schedules cause missed connections. |
