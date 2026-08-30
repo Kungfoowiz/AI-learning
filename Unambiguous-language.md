@@ -1,7 +1,6 @@
 # 1️⃣ Unambiguous language
 
-The following page shows how I can communicate implicit, ambiguous language to explicit, unambiguous language.  
-When I communicate clearly and unambiguously, information can be validated and references, and rules are explicit.    
+This page shows how to identify ambiguous language versus explicit language. Clear communication makes information verifiable, referenceable, and rule‑driven.  
 
 ---
 
