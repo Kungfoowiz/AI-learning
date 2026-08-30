@@ -6,6 +6,7 @@ Clear communication makes information verifiable, referenceable, and rule‑driv
 # 👁️‍🗨️ Unambiguous human English  
 
 | Step name | Ambiguous writing | Unambiguous writing | Why it is better? |
+| :--- | :--- | :--- | :--- |
 | Refine Your Structure | Cut the wood with the saw and clean it. | Cut the wood with the saw, then clean the saw. | Clarifies what "it" refers to. Repeating the noun removes ambiguity. |
 | Choose Precise Words (Time) | Call me when you are free. | Call me on Wednesday at 2:00 PM. | Removes timeline guesswork. Vague schedules cause missed connections. |
 | Choose Precise Words (Pronouns) | The patient told the doctor she was sick. | The patient said that the doctor was sick. | Identifies the correct person. Confusing pronouns mask the subject. |
@@ -18,6 +19,7 @@ Clear communication makes information verifiable, referenceable, and rule‑driv
 # 🤖 The high precision programmatic  
 
 | Objective / phase | Indeterminate input (implicit) | Deterministic input (explicit) | Structural optimisation and impact |
+| :--- | :--- | :--- | :--- |
 | Contextual Scoping | Cut the wood with the saw and clean it. | Cut the wood with the saw, then clean the saw. | Eliminates pronoun resolution failures. Noun repetition prevents execution state drift. |
 | Temporal Parameterization | Call me when you are free. | Call me on Wednesday at 2:00 PM. | Mitigates timeline heuristics guessing. Unbounded parameters degrade scheduling reliability. |
 | Subject-Object Resolution | The patient told the doctor she was sick. | The patient said that the doctor was sick. | Enforces deterministic entity linking. Amorphous pronoun mapping introduces systemic bias. |
