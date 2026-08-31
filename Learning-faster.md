@@ -1,6 +1,10 @@
-## ⚡️ Learning faster  
+## ⚡️ Learning faster
+
+**Prioritize** the most important first and forget everything else.
 
 **Start building immediately** and struggle with the problem.  
+
+**Failing** reminds me to learn more.
 
 **Mix other topics** to encourage problem solving. 
 
