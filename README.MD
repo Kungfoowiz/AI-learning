@@ -1,5 +1,5 @@
 # ✨ AI learning
-This documents my learning, approach and testing for AI. 
+This page is my sketchbook for learning, developing, and testing AI.
 
 ## ❓ Clearly specify "what did what"  
 I want to communicate explicitly and unambiguously, so I clearly specify **who or what did what**.  
