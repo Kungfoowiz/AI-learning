@@ -1,7 +1,8 @@
 # 1️⃣ Unambiguous language
 
-This page shows how to identify ambiguous language versus explicit language.  
-Clear communication makes information verifiable, referenceable, and rule‑driven.  
+This page shows the contrast between ambiguous and unambiguous language.  
+
+Clear, explicit, unambiguous language makes information easy to verify, reference, and regulate.
 
 # 👁️‍🗨️ Unambiguous human English  
 
