@@ -5,7 +5,7 @@ This page is my sketchbook for learning, developing, and testing AI.
 [This page explains methods for improving learning speed.](Learning-faster.md) 
 
 ## ❓ Clearly specify "what did what"  
-I want to communicate explicitly and unambiguously, so I clearly specify **who or what did what**.  
+I want to communicate explicitly and unambiguously, so I must clearly specify **what did what**.  
 [This page shows the contrast between ambiguous and unambiguous language.](Unambiguous-language.md)  
   
   
