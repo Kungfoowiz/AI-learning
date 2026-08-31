@@ -10,6 +10,6 @@
 
 Dedicate actual time, such as **60 minutes**, for learning and reflection.  
 
-Use AI to explain topics to you at different levels, such as for a **10 year old**.  
+Use AI to explain topics to myself at different levels, such as for a **10 year old**.  
 
-**Write down your learning** and explain it to others to reinforce your learning.  
+**Write down my learning** and explain it to others to reinforce my learning.  
