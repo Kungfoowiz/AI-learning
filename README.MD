@@ -1,5 +1,6 @@
 # ✨ AI sketchbook
-This page is my sketchbook for learning, developing, and testing AI.
+This is my sketchbook for learning, developing, and testing AI.  
+
 
 ## 💫 Learning faster
 [This page explains methods for improving learning speed.](Learning-faster.md) 
