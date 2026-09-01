@@ -46,6 +46,8 @@ Example Markdown:
 ---
 name: 
 description: 
+# The skill can only be run by the user, as the skill is costly to run.  
+disable-model-invocation: true  
 ---
 
 # 🧠 Overall specification
