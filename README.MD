@@ -17,7 +17,7 @@ The process is 3 clear phases:
 
 
 ## 🥪 Bacon, Lettuce, Tomato (BLT)  
-The AI flow is cooked with tomatoes, lettuce and bacon or BLT.  
+The AI flow is a sandwich made from bacon, lettuce, and tomato (BLT).  
 
 1.🧠 T-hink what exactly you want to do. I question deeply when I go for a walk outside and I ask myself what, why, how.  
 I also imagine explaining what I want to a 10 year old kid, so I can check my understanding from a different perspective.  
