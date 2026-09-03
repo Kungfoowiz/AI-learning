@@ -8,8 +8,14 @@ This is my sketchbook for learning, developing, and testing AI.
 ## ❓ Clearly specify "what did what"  
 I want to communicate explicitly and unambiguously, so I must clearly specify **what did what**.  
 [This page shows the contrast between ambiguous and unambiguous language.](Unambiguous-language.md)  
-  
-  
+
+## ⚡️ Phases  
+The process is 3 clear phases:  
+1. Plan (why, what, how)  
+2. Run (doing)  
+3. Review (checking)  
+
+
 ## 🥪 Bacon, Lettuce, Tomato (BLT)  
 1.🧠 T-hink what exactly you want to do. I question deeply when I go for a walk outside and I ask myself what, why, how.  
 I also imagine explaining what I want to a 10 year old kid, so I can check my understanding from a different perspective.  
