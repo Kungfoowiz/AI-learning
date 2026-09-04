@@ -11,7 +11,7 @@ I want to communicate explicitly and unambiguously, so I must clearly specify **
 
 ## ⚡️ Phases  
 The process is 3 clear phases:  
-1. Plan (what, why, how)  
+1. Plan (what, how, why)  
 2. Run (doing)  
 3. Review (checking)  
 
@@ -19,7 +19,7 @@ The process is 3 clear phases:
 ## 🥪 Bacon, Lettuce, Tomato (BLT)  
 The AI flow is a sandwich made from bacon, lettuce, and tomato (BLT).  
 
-1.🧠 T-hink what exactly you want to do. I question deeply when I go for a walk outside and I ask myself what, why, how.  
+1.🧠 T-hink what exactly you want to do. I question deeply when I go for a walk outside and I ask myself what, how, and why questions.  
 I also imagine explaining what I want to a 10 year old kid, so I can check my understanding from a different perspective.  
 
 Suggested Markdown:  
