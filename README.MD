@@ -8,8 +8,8 @@ This is my sketchbook for learning, developing, and testing AI.
 I want to communicate explicitly and unambiguously, so I must clearly specify **what did what**.  
 [This page shows the contrast between ambiguous and unambiguous language.](Unambiguous-language.md)  
 
-## ⚡️ Phases  
-The process is 3 clear phases:  
+## 3⃣️ Phases  
+The process is three clear phases:  
 1. Plan (what, how, why)  
 2. Run (doing)  
 3. Review (checking)  
