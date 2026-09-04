@@ -1,7 +1,6 @@
 # ✨ AI sketchbook
 This is my sketchbook for learning, developing, and testing AI.  
 
-
 ## 💫 Learning faster
 [This page explains methods for improving learning speed.](Learning-faster.md) 
 
@@ -19,7 +18,7 @@ The process is 3 clear phases:
 ## 🥪 Bacon, Lettuce, Tomato (BLT)  
 The AI flow is a sandwich made from bacon, lettuce, and tomato (BLT).  
 
-1.🧠 T-hink what exactly you want to do. I question deeply when I go for a walk outside and I ask myself what, how, and why questions.  
+1. 🧠 **T**hink what exactly I want to do. I question deeply when I go for a walk outside, and I ask myself what, how, and why questions.  
 I also imagine explaining what I want to a 10 year old kid, so I can check my understanding from a different perspective.  
 
 Suggested Markdown:  
@@ -30,7 +29,7 @@ Suggested Markdown:
 ## Success criteria  
 ```  
 
-2.🔢 L-ist what must do what. I use hierarchical numbered lists, clearly specifying what I want, with examples, limits, output formats, and what I do not want.  
+2. 🔢 **L**ist “what must do what”. I use hierarchical numbered lists, clearly specifying what I want, with examples, limits, output formats, and what I do not want.  
 
 Suggested Markdown:  
 ```
@@ -40,7 +39,7 @@ Suggested Markdown:
 # Procedure  
 ```  
 
-3.⚡ B-reak everything like a baby. I must smash the whole house, push every boundary, and do chaos engineering.  
+3. ⚡ **B**reak everything like a baby. I must smash the whole house, push every boundary, and do chaos engineering.  
 
 Suggested Markdown:  
 ```  
