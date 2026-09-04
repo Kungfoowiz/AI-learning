@@ -11,7 +11,7 @@ I want to communicate explicitly and unambiguously, so I must clearly specify **
 
 ## ⚡️ Phases  
 The process is 3 clear phases:  
-1. Plan (why, what, how)  
+1. Plan (what, why, how)  
 2. Run (doing)  
 3. Review (checking)  
 
